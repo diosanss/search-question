@@ -1,0 +1,36 @@
+{
+  "api": {
+    "provider": "DeepSeek",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-flash",
+    "api_key": "",
+    "vision": true,
+    "temperature": 0.2,
+    "timeout": 60
+  },
+  "capture": {
+    "interval": 5,
+    "mode": "full",
+    "region": null,
+    "change_threshold": 2.0
+  },
+  "overlay": {
+    "x": null,
+    "y": null,
+    "width": 470,
+    "height": 430,
+    "opacity": 0.97,
+    "auto_show": true
+  },
+  "behavior": {
+    "ocr_only": false,
+    "ocr_region_prompted": false,
+    "auto_minimize": false,
+    "save_screenshots": false,
+    "max_ocr_chars": 9000
+  },
+  "ui": {
+    "x": null,
+    "y": null
+  }
+}

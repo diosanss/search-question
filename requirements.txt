@@ -1,0 +1,9 @@
+mss==10.2.0
+Pillow>=10.0,<14
+requests>=2.31,<3
+winrt-runtime>=4.0,<5
+winrt-Windows.Media.Ocr>=4.0
+winrt-Windows.Graphics.Imaging>=4.0
+winrt-Windows.Storage.Streams>=4.0
+winrt-Windows.Foundation>=4.0
+winrt-Windows.Globalization>=4.0
